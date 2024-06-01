@@ -33,9 +33,7 @@ The Steps Of The Install
 * When you are asked to enter the device's forename, press the Ctrl + C buttons and the command prompt will open
 
 * At the command prompt, enter the following command : 
- 
- Indented code
- 
+
  sudo bash /boot/firmware/PPPwn/install.sh
 
  * The installer will ask you about the installation settings. After the installation is complete, reboot the device and congratulations. Your device has been set up successfully
