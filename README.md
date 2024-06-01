@@ -55,4 +55,6 @@ To update goldhen just repeat the above process and the new version will be copi
 * Choose Do Not Use for Proxy Server
 * NOTE : if you enable internet access you must match the username and password entered during the install or use the default ppp
 
+
+
 * NOTE : that this installer works on Raspberry Pi normally, but this explanation focuses on TV BOX devices more
