@@ -2,20 +2,33 @@ This is the offline installer for the PPPwn exploit for PS4 With TV BOX Support
 
 TV BOX Devices this installer runs on
 
- TV BOX With Amlogic Processor Runs Armbain OS
- TV BOX With Arm64 Processor Runs Armbain OS
- TV BOX With Armv7 Processor Runs Armbain OS
- TV BOX With RockChip Processor Runs Armbain OS
+* TV BOX With Amlogic Processor Runs Armbain OS
+ 
+* TV BOX With Arm64 Processor Runs Armbain OS
+ 
+* TV BOX With Armv7 Processor Runs Armbain OS
+ 
+* TV BOX With RockChip Processor Runs Armbain OS
+
+* NOTE : The TV BOX Must Be Rooted To Install Armbian OS On It
+ 
 
 This installer also works on 
  
- Raspberry Pi 5
- Raspberry Pi 4 Model B
- Raspberry Pi 400
- Raspberry Pi 3B+
- Raspberry Pi 2 Model B
- Raspberry Pi Zero 2 W with usb to ethernet adapter
- Raspberry Pi Zero W with usb to ethernet adapter
+* Raspberry Pi 5
+ 
+* Raspberry Pi 4 Model B
+ 
+* Raspberry Pi 400
+ 
+* Raspberry Pi 3B+
+ 
+* Raspberry Pi 2 Model B
+ 
+* Raspberry Pi Zero 2 W with usb to ethernet adapter
+ 
+* Raspberry Pi Zero W with usb to ethernet adapter
+ 
 
  You need to install Raspberry Pi OS Lite or Armbian Cli / Minimal onto a sd card.
 
