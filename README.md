@@ -32,7 +32,8 @@ This installer also works on
 
  You need to install Raspberry Pi OS Lite or Armbian Cli / Minimal onto a sd card.
 
- After burning the appropriate system to the SD CARD Then copy the firmware file that you downloaded to the root of the SD card, insert The SD CARD into your device,
+ After burning the appropriate system to the SD CARD Then copy the firmware file that you downloaded to the root of the SD CARD, insert 
+The SD CARD into your device,
  whether it is a Raspberry Pi or TV BOX, and complete the system installation process
 
  After the system boots successfully, you do not need to install the entire system
@@ -43,7 +44,7 @@ The Steps Of The Install
 
 * You will be asked to change your password. Enter any password you want
 
-* When you are asked to enter the device's forename, press the Ctrl + C buttons and the command prompt will open
+* When you are asked to enter the device forename, press the Ctrl + C buttons and the command prompt will open
 
 * At the command prompt, enter the following command : 
 
