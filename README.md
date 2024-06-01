@@ -5,6 +5,8 @@ TV BOX Devices this installer runs on
 * TV BOX With Amlogic Processor Runs Armbain OS
  
 * TV BOX With Arm64 Processor Runs Armbain OS
+
+* TV BOX With Arm32 Processor Runs Armbain OS
  
 * TV BOX With Armv7 Processor Runs Armbain OS
  
