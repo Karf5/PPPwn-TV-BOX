@@ -14,7 +14,7 @@ echo -e '\033[35mPPPwn Supported Firmwares  : FW 9.00 to 11.00\033[0m'
 echo -e '\033[35mSpecial Thanks To All The Developers Who Contributed To The Success Of This Project #_#\033[0m'
 
 while true; do
-read -p "$(printf '\r\n\r\n\033[36mDo You Want The Device To Shutdown After PPPwn Exoploit Success\r\n\r\n\033[36m(Y|N)?: \033[0m')" pisht
+read -p "$(printf '\r\n\r\n\033[36mDo You Want The Device To Shutdown After PPPwn Exploit Success\r\n\r\n\033[36m(Y|N)?: \033[0m')" pisht
 case $pisht in
 [Yy]* ) 
 SHTDN="true"
