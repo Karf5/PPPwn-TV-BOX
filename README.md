@@ -32,7 +32,7 @@ This installer also works on
 * Raspberry Pi Zero W with usb to ethernet adapter
  
 
- You need to install Raspberry Pi OS Lite or Armbian Cli / Minimal onto a sd card.
+ You need to burn Raspberry Pi OS Lite or Armbian Cli / Minimal onto a sd card.
 
  After burning the appropriate system to the SD CARD Unplug The SD CARD From The Computer And Plug It Again You Will See partition Called BOOT Just copy the firmware file that you downloaded to the root of the BOOT partition of the SD CARD, insert 
 The SD CARD into your device,
