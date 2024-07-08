@@ -34,7 +34,7 @@ This installer also works on
 
  You need to burn Raspberry Pi OS Lite or Armbian Cli / Minimal onto a sd card.
 
- After burning the appropriate system to the SD CARD Unplug The SD CARD From The Computer And Plug It Again You Will See partition Called BOOT Just copy the firmware file that you downloaded to the root of the BOOT partition of the SD CARD, insert 
+ After burning the appropriate system to the SD CARD Unplug The SD CARD From The Computer And Plug It Again You Will See partition Called BOOT Just copy the firmware folder that you downloaded to the root of the BOOT partition of the SD CARD, insert 
 The SD CARD into your device,
  whether it is a Raspberry Pi or TV BOX, and complete the system installation process
 
